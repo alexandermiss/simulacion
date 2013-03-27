@@ -1,4 +1,4 @@
-Simulacion
+Simulación
 ==========
 Incluyen los métodos congruencial mixto y otros.
 ------------------------
@@ -24,4 +24,4 @@ a 1 también se incluyen en el contado menores.
 
 Al finalizar se muestran los resultados se muestran en números y en forma de estadística.
 
-Como son dos dados, y contando que el ciclo for no repetira una misma caída de dados, los resultados serán 36 cifras.
+Como son dos dados, y contando que el ciclo for no repetirá una misma caída de dados, los resultados serán 36 cifras.
